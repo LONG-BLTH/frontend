@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'deploy-fxw9pc4bw-deploy-132370a1.vercel.app/api';
+const API_BASE_URL = 'https://deploy-gamma-three.vercel.app/api';
 
 // Create axios instance
 const api = axios.create({
